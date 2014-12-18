@@ -216,8 +216,8 @@
     <string name="reverse_lookup_provider_title">Provider di ricerca inversa</string>
     <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
     <string name="incall_vibration_category_title">Vibrazione chiamata</string>
-    <string name="incall_vibrate_outgoing_title">Vibra alla risposta(in uscita)</string>
-    <string name="incall_vibrate_hangup_title">Vibra alla risposta(in entrata)</string>
+    <string name="incall_vibrate_outgoing_title">Vibra alla risposta (in uscita)</string>
+    <string name="incall_vibrate_hangup_title">Vibra alla risposta (in entrata)</string>
     <string name="incall_vibrate_45_title">Vibra ad ogni minuto</string>
     <string name="incall_vibrate_45_summary">Vibra al 45esimo secondo di ogni minuto durante la chiamata in uscita</string>
     <string name="type_blacklist">Chiamate nella blacklist</string>
