@@ -201,26 +201,4 @@
     <string name="respond_via_sms_setting_title" msgid="1318281521087951580">"Risposte rapide"</string>
     <string name="call_settings_label" msgid="7416182166943714852">"Impostazioni chiamate"</string>
     <string name="call_settings_description" msgid="2756622428019213052">"Segreteria, avviso di chiamata e altre impostazioni"</string>
-    <string name="nearby_places">Luoghi vicini</string>
-    <string name="people">Persone</string>
-    <string name="lookup_settings_label">Ricerca numero</string>
-    <string name="lookup_settings_description">Ricerca dei numeri sconosciuti</string>
-    <string name="enable_forward_lookup_title">Ricerca luoghi</string>
-    <string name="enable_forward_lookup_summary">Mostra luoghi vicini durante la digitazione</string>
-    <string name="enable_people_lookup_title">Ricerca persone</string>
-    <string name="enable_people_lookup_summary">Mostra risultati di persone online</string>
-    <string name="enable_reverse_lookup_title">Ricerca inversa</string>
-    <string name="enable_reverse_lookup_summary">Ricerca informazioni sulla persona o il luogo sulla chiamata in arrivo dal numero sconosciuto</string>
-    <string name="forward_lookup_provider_title">Provider di ricerca luoghi</string>
-    <string name="people_lookup_provider_title">Provider di ricerca persone</string>
-    <string name="reverse_lookup_provider_title">Provider di ricerca inversa</string>
-    <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
-    <string name="incall_vibration_category_title">Vibrazione chiamata</string>
-    <string name="incall_vibrate_outgoing_title">Vibra alla risposta (in uscita)</string>
-    <string name="incall_vibrate_hangup_title">Vibra alla risposta (in entrata)</string>
-    <string name="incall_vibrate_45_title">Vibra ad ogni minuto</string>
-    <string name="incall_vibrate_45_summary">Vibra al 45esimo secondo di ogni minuto durante la chiamata in uscita</string>
-    <string name="type_blacklist">Chiamate nella blacklist</string>
-    <string name="menu_add_to_blacklist">Aggiungi alla blacklist</string>
-    <string name="toast_added_to_blacklist">%s aggiunto alla blacklist.</string>
 </resources>
