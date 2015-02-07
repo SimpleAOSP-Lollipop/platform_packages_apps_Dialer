@@ -201,4 +201,38 @@
     <string name="respond_via_sms_setting_title" msgid="1318281521087951580">"Быстрые ответы"</string>
     <string name="call_settings_label" msgid="7416182166943714852">"Настройки вызовов"</string>
     <string name="call_settings_description" msgid="2756622428019213052">"Голосовая почта, ожидание вызова и другие функции"</string>
+
+    <!-- Forward lookup -->
+    <string name="nearby_places">Места рядом</string>
+    <string name="people">Люди</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Поиск номеров телефона</string>
+    <string name="lookup_settings_description">Поиск неизвестных телефонных номеров</string>
+    <string name="enable_forward_lookup_title">Прямой поиск</string>
+    <string name="enable_forward_lookup_summary">Показывать ближайшие организации при поиске в номеронабирателе</string>
+    <string name="enable_people_lookup_title">Поиск по людям</string>
+    <string name="enable_people_lookup_summary">Показывать результаты из сети для контактов при поиске</string>
+    <string name="enable_reverse_lookup_title">Обратный поиск</string>
+    <string name="enable_reverse_lookup_summary">Искать информацию о человеке/месте для незнакомых входящих номеров</string>
+    <string name="forward_lookup_provider_title">Поставщик прямого поиска</string>
+    <string name="people_lookup_provider_title">Поставщик поиска данных о людях</string>
+    <string name="reverse_lookup_provider_title">Поставщик обратного просмотра</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_name">Китайский Cyngn (CN)</string>
+    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
+
+    <!-- In call vibration -->
+    <string name="incall_vibration_category_title">Вибрация при вызове</string>
+    <string name="incall_vibrate_outgoing_title">Вибрация при ответе</string>
+    <string name="incall_vibrate_hangup_title">Вибрация при сбросе</string>
+    <string name="incall_vibrate_45_title">Вибрировать каждую минуту</string>
+    <string name="incall_vibrate_45_summary">Вибрирует в 45 секунд во вторых отметках каждой минуты во время исходящих звонков</string>     
+
+    <!-- Description for incoming calls that were blacklisted -->
+    <string name="type_blacklist">Блокированные вызовы</string>
+    <string name="menu_add_to_blacklist">Добавить в черный список</string>
+    <string name="toast_added_to_blacklist">%s добавлен в черный список.</string>
 </resources>
