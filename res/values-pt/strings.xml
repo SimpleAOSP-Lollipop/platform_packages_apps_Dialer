@@ -201,4 +201,34 @@
     <string name="respond_via_sms_setting_title" msgid="1318281521087951580">"Respostas rápidas"</string>
     <string name="call_settings_label" msgid="7416182166943714852">"Configurações de chamada"</string>
     <string name="call_settings_description" msgid="2756622428019213052">"Correio de voz, chamada em espera e outros"</string>
+  
+    <!-- Forward lookup -->
+    <string name="nearby_places">Lugares próximos</string>
+    <string name="people">Pessoas</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Pesquisa de números de telefone</string>
+    <string name="lookup_settings_description">Procura por números de telefone desconhecidos</string>
+    <string name="enable_forward_lookup_title">Pesquisa direta</string>
+    <string name="enable_forward_lookup_summary">Mostrar lugares próximos ao pesquisar no discador</string>
+    <string name="enable_people_lookup_title">Procurar pessoas</string>
+    <string name="enable_people_lookup_summary">Mostrar resultados on-line para as pessoas ao pesquisar no discador</string>
+    <string name="enable_reverse_lookup_title">Pesquisa inversa</string>
+    <string name="enable_reverse_lookup_summary">Procura informações sobre a pessoa ou lugar para números desconhecidos sobre as chamadas recebidas</string>
+    <string name="forward_lookup_provider_title">Provedor de pesquisa direta</string>
+    <string name="people_lookup_provider_title">Provedor de pesquisar pessoas</string>
+    <string name="reverse_lookup_provider_title">Provedor de pesquisa inversa</string>
+
+    <!-- In call vibration -->
+    <string name="incall_vibration_category_title">Vibrações de chamadas</string>
+    <string name="incall_vibrate_outgoing_title">Vibrar em resposta</string>
+    <string name="incall_vibrate_hangup_title">Vibrar ao encerrar</string>
+    <string name="incall_vibrate_45_title">Vibrar a cada minuto</string>
+    <string name="incall_vibrate_45_summary">Vibrar a cada 45 segundos de cada minuto durante as chamadas efetuadas</string>     
+
+    <!-- Description for incoming calls that were blacklisted -->
+    <string name="type_blacklist">Lista negra de chamadas</string>
+    <string name="menu_add_to_blacklist">Adicionar para a lista negra</string>
+    <string name="toast_added_to_blacklist">%s adicionado à lista negra.</string>
 </resources>
+
