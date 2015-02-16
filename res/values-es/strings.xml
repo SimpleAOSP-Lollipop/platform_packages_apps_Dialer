@@ -201,4 +201,28 @@
     <string name="respond_via_sms_setting_title" msgid="1318281521087951580">"Respuestas rápidas"</string>
     <string name="call_settings_label" msgid="7416182166943714852">"Ajustes de llamada"</string>
     <string name="call_settings_description" msgid="2756622428019213052">"Buzón de voz, llamada en espera y otras opciones"</string>
+    <string name="nearby_places">Sitios cercanos</string>
+    <string name="people">Gente</string>
+    <string name="lookup_settings_label">Búsqueda de número de teléfono</string>
+    <string name="lookup_settings_description">Búsqueda de números de teléfono desconocidos</string>
+    <string name="enable_forward_lookup_title">Búsqueda directa</string>
+    <string name="enable_forward_lookup_summary">Mostrar sitios cercanos cuando se esté buscando en el marcador</string>
+    <string name="enable_people_lookup_title">Buscador de gente</string>
+    <string name="enable_people_lookup_summary">Mostrar resultados de gente en línea cuando se esté buscando en el marcador</string>
+    <string name="enable_reverse_lookup_title">Búsqueda inversa</string>
+    <string name="enable_reverse_lookup_summary">Buscar información sobre la persona o sitio desconocido en las llamadas entrantes</string>
+    <string name="forward_lookup_provider_title">Proveedor de búsqueda directa</string>
+    <string name="people_lookup_provider_title">Proveedor del buscador de gente</string>
+    <string name="reverse_lookup_provider_title">Proveedor de búsqueda inversa</string>
+    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
+    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
+    <string name="incall_vibration_category_title">Vibrar en la llamada</string>
+    <string name="incall_vibrate_outgoing_title">Vibrar al responder</string>
+    <string name="incall_vibrate_hangup_title">Vibrar al colgar</string>
+    <string name="incall_vibrate_45_title">Vibrar cada minuto</string>
+    <string name="incall_vibrate_45_summary">Vibrar al segundo 45 de cada minuto durante las llamadas salientes</string>     
+    <string name="type_blacklist">Llamada en la lista negra</string>
+    <string name="menu_add_to_blacklist">Añadir a la lista negra</string>
+    <string name="toast_added_to_blacklist">%s añadido a la lista negra.</string>
 </resources>
